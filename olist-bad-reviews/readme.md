@@ -28,8 +28,3 @@ These are **associations, not proven causes**. The data does not include parcel-
 
 SQL joins, CTEs, `ROW_NUMBER()`, order-level aggregation, data cleaning, exploratory analysis, statistical testing, and logistic regression.
 
-## Project report and code
-
-**[Read the complete analysis and code (PDF)](olist_bad_reviews_complete.pdf)**
-
-The PDF contains the redesigned report, figures, conclusions, and a technical appendix with the complete SQL and Python code cells. To run the code separately, download the nine Olist CSV files and place them in a local `data/` folder as described in the appendix.
